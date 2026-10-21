@@ -1,0 +1,12 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 10px;
+    background-color: rgb(9, 22, 87);
+}
+
+body {
+    color: white;
+    background-color: rgb(9, 22, 87);
+}
